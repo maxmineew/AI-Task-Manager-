@@ -47,16 +47,16 @@
 Ниже приведены скриншоты ключевых экранов/результатов работы системы.
 
 ### 4.1. Главный экран и ввод задач
-![Главный экран приложения](./screenshots/01_main_input.png)
+![Главный экран приложения](./screenshots/01_main_input.jpg)
 
 ### 4.2. Таблица приоритизированных задач
-![Таблица приоритизированных задач](./screenshots/02_prioritized_tasks.png)
+![Таблица приоритизированных задач](./screenshots/02_prioritized_tasks.jpg)
 
 ### 4.3. План выполнения (today/tomorrow/this_week)
-![План выполнения задач](./screenshots/03_plan_blocks.png)
+![План выполнения задач](./screenshots/03_plan_blocks.jpg)
 
 ### 4.4. Экспорт и коммерческий блок
-![Экспорт и коммерческие метрики](./screenshots/04_exports_and_metrics.png)
+![Экспорт и коммерческие метрики](./screenshots/04_exports_and_metrics.jpg)
 
 ## 5. Ценность для клиента
 
