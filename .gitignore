@@ -1,0 +1,45 @@
+.env
+.env.local
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+
+# Тесты и типизация
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE и ОС
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Streamlit (локальные секреты)
+.streamlit/secrets.toml
+
+# Логи
+*.log
+
+# Локальные PDF (для публикации на GitHub добавьте: git add -f "имя.pdf")
+*.pdf
+
+# Временные файлы Word
+~$*.docx
+
+# Локальные материалы курса (не публиковать на GitHub)
+1.jpg
+*.docx
+*конспект занятия.html
+*ИИ-менеджер задач для фрилансеров.docx
+*Итоговый проект  Промпт-инжиниринг 2.0 — конспект занятия.html
